@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfoliowapsite/static/css/main.f8ee5264.css",
+    "main.js": "/Portfoliowapsite/static/js/main.9bb1f280.js",
+    "static/media/SchoolLogo.png": "/Portfoliowapsite/static/media/SchoolLogo.daca185ffea5128dc857.png",
+    "index.html": "/Portfoliowapsite/index.html",
+    "main.f8ee5264.css.map": "/Portfoliowapsite/static/css/main.f8ee5264.css.map",
+    "main.9bb1f280.js.map": "/Portfoliowapsite/static/js/main.9bb1f280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ee5264.css",
+    "static/js/main.9bb1f280.js"
+  ]
+}
